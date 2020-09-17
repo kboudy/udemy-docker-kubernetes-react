@@ -13,7 +13,7 @@ deploy:
   provider: elasticbeanstalk
   region: "us-east-2"
   app: "udemy-docker-kubernetes-react"
-  env: "UdemyDockerKubernetesReact-env-2"
+  env: "UdemyDockerKubernetesReact-env"
   bucket_name: "elasticbeanstalk-us-east-2-535617044873"
   bucket_path: "udemy-docker-kubernetes-react"
   on:
